@@ -31,8 +31,9 @@ body {
 }
 
 .menu-item img {
-    width: 150px;
-    height: 100px;
+    width: 100%;
+    max-width: 150px;
+    height: auto;
     object-fit: cover;
 }
 
